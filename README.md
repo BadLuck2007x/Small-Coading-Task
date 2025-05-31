@@ -46,5 +46,5 @@ _Output:_
 Feel free to add more pattern codes or improve the existing ones!
 
 ---
-**Author:** [Your Name]  
+**Author:** [Arpan Biswas] 
 **Year:** 2025
